@@ -33,6 +33,8 @@
 .nav-link:hover, .nav-link:active{
   color:#000;
 }
+
+
 @media (min-width: 991px){
   .nav-link::before{
   content: "";
